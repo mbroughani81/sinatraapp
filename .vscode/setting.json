@@ -1,0 +1,7 @@
+{
+    "solargraph.useBundler": true,
+    "solargraph.bundlerPath": "/home/brough/.rbenv/shims/bundle",
+    "solargraph.formatting": true,
+    "editor.formatOnSave": true,
+    "solargraph.diagnostics": true
+}
